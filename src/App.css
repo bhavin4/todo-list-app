@@ -36,7 +36,6 @@ body {
     min-width: 15rem;
     width: 40vw;
     max-height: 2.5rem;
-    background-color: bisque;
     border: none;
     border-radius: 5px;
     padding: 0.5rem 1rem;
@@ -51,9 +50,9 @@ body {
 .add-btn{
     margin-left: 1rem;
     background-color: #271c6c;
-    color: bisque;
+    color: #fff;
     border-radius: 50%;
-    border: 2px solid bisque;
+    border: 2px solid #fff;
     font-size: 1.5rem;
     width: 3.2rem;
     height: 3.2rem;
@@ -119,7 +118,6 @@ body {
     padding: 0.5rem;
     border-radius: 8px;
     border: none;
-    background-color: bisque;
     color: #271c6c;
     height: 70%;
 }
